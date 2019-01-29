@@ -1,0 +1,27 @@
+{
+  "name": "react-mooc",
+  "version": "1.0.0",
+  "description": "\"This is a mooc\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qiweih/react-mooc.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Huang Qiwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qiweih/react-mooc/issues"
+  },
+  "homepage": "https://github.com/Qiweih/react-mooc#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
